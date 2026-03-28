@@ -1,6 +1,6 @@
 Fix needed for ingame join and client  I think
 
-i might implement a client dll release if we figure it out why is this not working on a autohoster 
+
 
 # Helios-29.00
 
