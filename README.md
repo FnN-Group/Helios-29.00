@@ -2,7 +2,7 @@ Fix needed for ingame join and client  I think
 
 
 
-# Helios-29.00
+# Helios-29.00 (maintained)
 
 Helios Chapter 5 Season 2 Gameserver
 
